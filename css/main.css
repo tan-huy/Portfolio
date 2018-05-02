@@ -4,3 +4,13 @@
     width:  90% !important;
     border:  #f4f4f4 3px solid !important
 }
+
+.section-follow .fa-2x {
+    margin:  10px
+}
+
+.section-contact .collection-item {
+    position:  relative;
+    top:  50%;
+    transform:  translateY (-50%);
+}
